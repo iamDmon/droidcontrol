@@ -24,7 +24,7 @@ A java library to run action on your android device using adb :)
   ```java droidcontrol swup3```
   
   Swipe up the screen from bottom to top.
-
+---
 
   ```java droidcontrol swdn1```
   
@@ -39,7 +39,7 @@ A java library to run action on your android device using adb :)
   ```java droidcontrol swdn3```
   
   Swipe down the screen from bottom to top.
-
+---
 
   ```java droidcontrol swlft1```
   
@@ -54,3 +54,8 @@ A java library to run action on your android device using adb :)
   ```java droidcontrol swlft3```
   
   Swipe left complete screen in 50ms
+  
+  ## TODO
+  - Make functions for better code exec.
+  - Remove redundant, unecessary ```waitfor()``` to improve runtime performance
+  - Complete documentation.
