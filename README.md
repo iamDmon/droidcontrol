@@ -24,7 +24,7 @@ A java library to run action on your android device using adb :)
   ```java droidcontrol swup3```
   
   Swipe up the screen from bottom to top.
----
+
 
   ```java droidcontrol swdn1```
   
@@ -39,7 +39,6 @@ A java library to run action on your android device using adb :)
   ```java droidcontrol swdn3```
   
   Swipe down the screen from bottom to top.
----
 
   ```java droidcontrol swlft1```
   
